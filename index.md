@@ -188,7 +188,7 @@ embed[type="application/pdf"][src="about:blank"] { filter: invert(100%) contrast
 			Status generatora: </span><span style="color: lime; --darkreader-inline-color:#1aff1a;" data-darkreader-inline-color="">niezablokowany</span></h2></center>
 		</div>
 	</div>
-<a href="https://topgunix.github.io/freebigmaczek/index.html">aaaaaaaaa</a>
+<a href="https://topgunix.github.io/gigamaczek/index.md">aaaaaaaaa</a>
 	<script>
 
 	const btn = document.getElementById('generate_coupon');
